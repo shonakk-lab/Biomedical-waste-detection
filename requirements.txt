@@ -1,0 +1,14 @@
+numpy
+opencv-python
+pandas
+scikit-learn
+scikit-image
+Pillow
+albumentations
+imgaug
+lxml
+xmltodict
+matplotlib
+seaborn
+tqdm
+pyyaml
