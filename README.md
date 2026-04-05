@@ -8,8 +8,6 @@ Install dependencies:
 pip install -r requirements.txt
 
 ### Dataset
-The dataset used in this study is primarily self-collected and supplemented with publicly available datasets, including the Kaggle biomedical waste dataset:
-https://www.kaggle.com/datasets/engineeringubu/pharmaceutical-and-biomedical-waste
 
 A fully anonymized representative subset of the dataset is provided in the `/data` folder of this repository, including sample images and corresponding annotations in JSON format.  
 The annotations contain object class labels (sharps, infectious, pharmaceutical, pathological) and bounding box coordinates [x, y, width, height].
