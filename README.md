@@ -16,6 +16,8 @@ The annotations contain object class labels (sharps, infectious, pharmaceutical,
 
 This subset preserves the structure of the original dataset and is intended to support reproducibility and demonstration of the proposed model pipeline- (https://www.kaggle.com/datasets/engineeringubu/pharmaceutical-and-biomedical-waste).
 
+Annotations format: JSON with bounding boxes [x, y, width, height]
+
 ### Training
 Run:
 python Training_testing.py
